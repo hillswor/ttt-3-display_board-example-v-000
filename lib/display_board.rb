@@ -1,10 +1,7 @@
 def display_board
-  columns = "   ""|""   ""|""   "
-  puts columns
-  rows = "-----------"
-  puts rows
-  puts columns
-  puts rows
-  puts columns
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
 end
-display_board
